@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ProductCatalogue
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ganathma
+Implementation-Vendor-Id: com.wallmart.productcatalogue
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/ProductCatal
+ ogue/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
