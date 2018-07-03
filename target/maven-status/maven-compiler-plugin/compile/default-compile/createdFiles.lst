@@ -1,0 +1,8 @@
+com\wallmart\productcatalogue\customexception\MyResourceNotFoundException.class
+com\wallmart\productcatalogue\bean\ProductCatalogueBean.class
+com\wallmart\productcatalogue\controller\ProductCatalogueController.class
+com\wallmart\productcatalogue\customexception\ExceptionHandlers.class
+com\wallmart\productcatalogue\service\ProductCatalogueRepository.class
+com\wallmart\productcatalogue\customexception\ExceptionResponse.class
+com\wallmart\productcatalogue\ProductCatalogueApplication.class
+com\wallmart\productcatalogue\service\ProductCatalogueService.class
